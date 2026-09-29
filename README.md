@@ -13,8 +13,8 @@ in all of this date we have made a changes
 5 august 2026
 6 august 2026
 7 august 2026
-8 august 2026
-9 august 2026
+8 August 2026
+9 August 2026
 11 august 2026
 12 angust 2026
 17 august 2026
@@ -29,6 +29,7 @@ in all of this date we have made a changes
 26 anu 2026
 26 A
 29 aug
-22/ sep
+22/Sep
 23/ sep 
 25/ sep 2026
+29/9 2026
